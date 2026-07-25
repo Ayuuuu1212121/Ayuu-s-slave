@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Ayuu made me I Should surve him!", // required by Discord API, not shown in the client
+        name: "Ayuu made me I Should surve him !", // required by Discord API, not shown in the client
         state: "Ayuu feeds me flowers -_-",     // this is what people actually see
         type: 0,               // Custom
       },
