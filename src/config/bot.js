@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Ayuu made me I Should surve him !", // required by Discord API, not shown in the client
-        state: "Ayuu feeds me flowers -_-",     // this is what people actually see
+        state: "Ayuu feeds me flowers -_- <3",     // this is what people actually see
         type: 0,               // Custom
       },
     ],
